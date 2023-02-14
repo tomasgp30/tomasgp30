@@ -33,6 +33,13 @@ Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formaci
   * TailwindCSS
   * GIT
 
+Idiomas
+-----------
+Español: Nativo
+Ingles: Nivel C2 Proficient
+Catalan: Intermedio
+
+
 No dudes en contactarme!
 -----------
 Juntos podemos superar muchos desafios y cambiar la vida de miles de personas.
