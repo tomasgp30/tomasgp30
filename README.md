@@ -35,9 +35,9 @@ Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formaci
 
 Idiomas
 -----------
-Español: Nativo
-Ingles: Nivel C2 Proficient
-Catalan: Intermedio
+* Español: Nativo
+* Ingles: Nivel C2 Proficient
+* Catalan: Intermedio
 
 
 No dudes en contactarme!
